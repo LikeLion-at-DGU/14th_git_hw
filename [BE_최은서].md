@@ -51,4 +51,5 @@ FRAMEWORK
 - settings.py 설정
 - APP 생성 (python manage.py startapp[main], 코드 중 INSTALLED_APPS에 'main' 추가)
 - 서버실행 (python manage.py migrate, python manage.py makemigrations, python manage.py runserver)
-- git 연동(git add ., git commit -m "메세지", git branch -M main, git remote add origin "주소", git remote -v, git push origin main)
+- git 연동
+(git add ., git commit -m "메세지", git branch -M main, git remote add origin "주소", git remote -v, git push origin main)
