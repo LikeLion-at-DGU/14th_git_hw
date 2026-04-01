@@ -6,8 +6,8 @@ git log --oneline               # 커밋 기록 확인
 git status                      # 현재 상태 확인
 
 2. git 사용법(협업)
-git clone [URL]                 # 원격 저장소 복제
-git remote add origin [URL]     # 원격 저장소 연결
+git clone (URL)                 # 원격 저장소 복제
+git remote add origin (URL)     # 원격 저장소 연결
 git push origin main            # 원격에 올리기
 git pull origin main            # 원격에서 가져오기
 git branch BE_HJH               # 브랜치 생성
